@@ -1,3 +1,4 @@
 monkey understanding git command
 register modified text to index
+get context of pull remote repository
 
